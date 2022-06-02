@@ -1,3 +1,0 @@
-hello
-commit: Lưu lại trạng thái của index
-pull: Lấy nội dung của remote repository
